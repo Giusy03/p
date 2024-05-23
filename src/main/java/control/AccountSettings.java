@@ -79,3 +79,4 @@ public class AccountSettings extends HttpServlet {
 	}
 
 }
+che tipo di vulnerabilità ci sono critical,hight,medium,low o informational
